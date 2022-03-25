@@ -1,6 +1,7 @@
 # Tracking-de-Pessoas-Grupo-5
 Projeto desenvolvido na disciplina INE5443 - Reconhecimento de Padrões ministrada pelo Prof. Aldo Von Wangenheim
 
+![alt text](https://github.com/Matheus-Lenzi/Tracking-de-Pessoas-Grupo-5/blob/master/apresentacaoImagem.jpg?raw=true)
 
 ## Estudo e teste de tracking de pessoas usando abordagens clássicas e com CNN em visão computacional
 
